@@ -55,7 +55,11 @@
     {
       "name": "crystall1nedev's server",
       "address": "https://anisette.crystall1ne.dev"
-    }
+    },
+    {
+    "name": "[jslypkr]",   //doesn't really matter unless you're sharing this server list with someone else
+    "address": "[https://anisette-v3-server-2vsp.onrender.com]"
+}
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
